@@ -1,0 +1,29 @@
+
+.texto{
+    color: black;
+
+}
+
+.fundo{
+    background:white!important;/*rgb(246, 251, 255);*/
+    
+    
+    /*rgb(225, 241, 252);*/
+    
+}
+
+.container{
+    
+    background:white!important;
+     
+   /*  margin-top: 20px; */
+    
+}
+
+.jumbotron{
+    margin-top: 20px;
+    border-color: black!important;
+    background: #FFFFF0!important;
+}
+
+ 
